@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoPreviousNextMenuBar</string>
+    <string name="action_next">Next</string>
+    <string name="action_prev">Prev</string>
+</resources>
