@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
         if (shouldDisablePrevMenuItem()) {
             itemPrev.setEnabled(false);
         } else {
-            itemNext.setEnabled(true);
+            itemPrev.setEnabled(true);
         }
         return super.onPrepareOptionsMenu(menu);
     }
